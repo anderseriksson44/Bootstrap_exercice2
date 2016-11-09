@@ -1,3 +1,3 @@
-# Bootstrap_exercice2
+# Bootstrap_exercise
 
-A second exercise to learn some Bootstrap
+An exercise to learn some Bootstrap
